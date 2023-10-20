@@ -1,4 +1,4 @@
-# Psseudocode-to-check-a-number-magic-or-not
+# Pseudocode-to-check-a-number-magic-or-not
 BEGIN 
      GET a number
      ASSIGN as num
